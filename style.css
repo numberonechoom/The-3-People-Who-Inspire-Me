@@ -20,6 +20,7 @@ h3 {
 
 img {
     width: 150px;
+    height: auto;
     align-items: center;
 }
 
