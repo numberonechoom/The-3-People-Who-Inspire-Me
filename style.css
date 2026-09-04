@@ -1,19 +1,22 @@
 body {
-    background-color: #e7e7e7;
+    background-color: gold;
     font-family: sans-serif;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
 h1 {
-    color: darkblue;
+    color: green;
     text-align: center;
 }
 
 h2 {
-    color:#870026 ;
+    color:red ;
     text-align:justify;
 }
+h3 {
+    color:darkblue;
+    text-align:justify;
 
 img {
     width: 300px;
